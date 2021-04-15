@@ -3,7 +3,7 @@
         <h1>{{title}}</h1> 
         <Button name = 'add task' color= "#07c44f"/>
         <Button name = 'edit task' color= "#3907c4b7"/>
-        <Button name = 'delete task' color= "#c40756e0"/>
+        <Button name = 'delete all tasks' color= "#c40756e0"/>
     </header>
 </template>
 
